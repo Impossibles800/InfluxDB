@@ -81,3 +81,5 @@ influx.writePoints([
 ### Field:
 - A field is a key-value pair that is associated with a point.
 - They are not indexed and cannot be used to filter or group data.
+
+#### [Refer the code](https://replit.com/@abhirajbosch/Influx-DB?v=1)
